@@ -1,2 +1,2 @@
 # Webinary
-Topologia labu na rSHP 16.06.2020
+Projekt zawiera materiały dodatkowe do prowadzonych przeze mnie webinarów
